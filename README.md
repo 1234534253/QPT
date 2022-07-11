@@ -8,7 +8,7 @@ submitted to ...
 
 With the Jupyter Notebooks available in the repository, it is possible to reconstruct $SU(2)$ processes both via Machine Learning (ML) and Genetic Algorithms (GAs).
 
-In detail di repo is organized as follows:
+In detail the repo is organized as follows:
 
   ###  GAs Code
   ____
