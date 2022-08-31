@@ -12,15 +12,14 @@ In detail the repo is organized as follows:
 
   ###  GAs Code
   ____
-  1. Genetic_Reconstruction_of_Single_Processes.ipynb is a notebook containing the tools required to reproduce the experiment on single $SU(2)$ Trasformations reconstructed via GAs
-  2. GA_Maps_Reconstruction.ipynb contains the code for reconstructing the 73X73 images reported in the above paper
+  1. Genetic_Reconstruction_of_Single_Processes.ipynb is the notebook containing the tools required to reproduce the experiment on single $SU(2)$ Trasformations reconstructed via GAs.
+  2. GA_Maps_Reconstruction.ipynb contains the code for reconstructing the 73X73 images reported in the above paper.
 
   ###  ML Code
   ____
-  1. NN on single pixel.ipynb is the notebook for reconstructing the single processes via ML
-  2.
-  3. The folder 'models' contains all the trained Neural Networks
-  
+  1. The folder 'models' contains all the trained Neural Networks for different numbers of input measurements (3, 4, 5, 6)
+  2. NN_Reconstruction_of_Single_Processes.ipynb is the notebook containing all the tools and instructions necessary to perform the tomographic reconstruction of single $SU(2)$ processes via Neural Networks.
+  3. NN_Maps_Reconstruction.ipynb, just as for GAs, is the notebook containing the code to reproduce the final images of the paper.
   ###  Data
   ____
   All the data used in the paper are reported in the repo.
