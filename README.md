@@ -17,7 +17,7 @@ In detail the repo is organized as follows:
 
   ###  ML Code
   ____
-  1. The folder 'models' contains all the trained Neural Networks for different numbers of input measurements (3, 4, 5, 6)
+  1. The folder 'models' contains the trained Neural Network (.h5 and.json files) for 6 input measurements.
   2. NN_Reconstruction_of_Single_Processes.ipynb is the notebook containing all the tools and instructions necessary to perform the tomographic reconstruction of single $SU(2)$ processes via Neural Networks.
   3. NN_Maps_Reconstruction.ipynb, just as for GAs, is the notebook containing the code to reproduce the final images of the paper.
   ###  Data
