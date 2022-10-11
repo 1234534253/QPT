@@ -27,6 +27,6 @@ In detail the repo is organized as follows:
   1. The folder 'dataset_gassian' contains the data for reporducing single $SU(2)$ Transformation
   2. The folder 'experimental_data_73' contains the data for reconstructing the three images 73x73 shown in the paper
 
-For adapting the code to your particular problem you should simply adapt your data in the same format of these you can find in this repo.
+To adapt the code to your particular problem you should simply convert your data to the same format used in this repo.
 
 All the Notebook inserted in this repo can be executed directily on Binder by means of the following Tag: 
