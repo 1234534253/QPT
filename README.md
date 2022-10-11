@@ -1,4 +1,4 @@
-# Quantum Process Tomography via Genetic Algorithms and Neural Networks
+# Quantum Process Tomography via Genetic Algorithms and Neural Networks amo anna
 
 [![!](https://img.shields.io/badge/Genetic-Algorithms-orange)]() [![!](https://img.shields.io/badge/Neural-Networks-blue)]()
 
