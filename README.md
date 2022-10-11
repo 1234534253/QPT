@@ -6,7 +6,7 @@
 This repository contains the numerical codes to reproduce the results reported in the paper: 'Retrieving complex polarization transformations via optimized quantum process tomography'
 submitted to ...
 
-With the Jupyter Notebooks available in the repository, it is possible to reconstruct $SU(2)$ processes both via Machine Learning (ML) and Genetic Algorithms (GAs).
+With the Jupyter Notebooks available in the repository, it is possible to reconstruct $SU(2)$ processes both via Neural Networks (NN) and Genetic Algorithms (GAs).
 
 In detail the repo is organized as follows:
 
