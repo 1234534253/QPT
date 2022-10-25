@@ -8,6 +8,8 @@ This repository contains the numerical codes to reproduce the results reported i
 
 With the Jupyter Notebooks available in the repository, it is possible to reconstruct $SU(2)$ processes via a Neural Network (NN) and a Genetic Algorithm (GA), as detailed in the paper. 
 
+Notebooks can be executed online via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1234534253/QPT.git/HEAD)
+
 The repository is organized as follows:
 
   ###  GA Code
