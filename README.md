@@ -31,6 +31,4 @@ The repository is organized as follows:
   1. The folder 'dataset' contains synthetic outcomes of polarimetric measurements associated with 1000 $SU(2)$ Transformation. The folder contains the theoretical parameters of each transformation as well. The subfolders '0', '1', '2', '5' contain the same set of 6 polarimetric measurements, simulating different levels of experimental noise. 
   2. The folder 'experimental_data' contains the intensity data of the three experimental 73x73 images reported in the paper
 
-To adapt our codes to your particular experimental conditions, simply arrange your dataset into the format used in this repo.
-
-All the Notebook inserted in this repo can be executed directily on Binder by means of the following Tag: 
+To adapt our codes to your particular experimental conditions, simply arrange your dataset into the format used in this repo. 
