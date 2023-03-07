@@ -3,7 +3,7 @@
 [![!](https://img.shields.io/badge/Genetic-Algorithms-orange)]() [![!](https://img.shields.io/badge/Neural-Networks-blue)]()
 
 
-This repository contains the numerical codes to reproduce the results reported in the paper: 'Retrieving unitary polarization transformations via optimized quantum tomography'. 
+This repository contains the numerical codes to reproduce the results reported in the paper: 'Retrieving space-dependent polarization transformations via near-optimal quantum process tomography'. 
 
 
 With the Jupyter Notebooks available in the repository, it is possible to reconstruct $SU(2)$ processes via a Neural Network (NN) and a Genetic Algorithm (GA), as detailed in the paper. 
