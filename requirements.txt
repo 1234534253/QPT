@@ -1,0 +1,7 @@
+deap
+tensorflow
+keras
+matplotlib
+numpy
+pandas
+seaborn
