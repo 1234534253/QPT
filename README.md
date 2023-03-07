@@ -21,7 +21,7 @@ The repository is organized as follows:
   ###  NN Code
   ____
   1. The folder 'models' contains the trained NN (.h5 and.json files) for 6 input measurements.
-  2. NN_Reconstruction_of_Single_Processes.ipynb is the notebook containing all the tools to reconstruct the synthetic experiments on single $SU(2)$ Trasformations via NNs.
+  2. NN_Reconstruction_of_Single_Processes.ipynb is the notebook containing the tools to reconstruct the synthetic experiments on single $SU(2)$ Trasformations via NNs.
   3. NN_Maps_Reconstruction.ipynb is the notebook to reconstruct the experimental 73X73 images reported in the paper via NNs.
   
   ###  Data
